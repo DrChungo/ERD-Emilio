@@ -67,7 +67,7 @@ plt.grid(True, linestyle='--', alpha=0.3)
 plt.show()
 
 
-# 5) Barras 
+#  Barras 
 
 months = ['Ene','Feb','Mar','Abr','May','Jun','Jul','Ago','Sep','Oct','Nov','Dic']
 income = [2100, 2100, 2150, 2150, 2200, 2200, 2200, 2200, 2250, 2250, 2300, 2300]
