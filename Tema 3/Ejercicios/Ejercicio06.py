@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 # Activar estilo seaborn
 
-#plt.style.use("seaborn")
+plt.style.use("seaborn-v0_8")
 
 # 1) Gráfico de barras: hábitos semanales
 habitos = {
